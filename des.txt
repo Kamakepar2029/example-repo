@@ -1,0 +1,1 @@
+[{"des":"Go to dashboard.cloud-appstorage.ru"},{"des":"Register there"},{"des":"Create Project"},{"des":'See an example of implement"}]
