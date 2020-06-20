@@ -1,1 +1,1 @@
-[{name":"1st Step"},{"name":"2nd Step"}, {"name":"4th Step"}]
+[{name":"1st Step"},{"name":"2nd Step"},{"name":"3rd Step"}, {"name":"4th Step"}]
